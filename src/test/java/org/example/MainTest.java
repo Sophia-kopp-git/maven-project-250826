@@ -13,7 +13,8 @@ public class MainTest {
     @Test
     void simpleTest_2plus3_is4(){
         assertEquals(2+3, 5);
-    }    @Test
+    }
+    @Test
     void fakeTest_2plus3_is4(){
         assertEquals(2+3, 5);
     }
