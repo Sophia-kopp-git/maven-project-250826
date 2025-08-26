@@ -17,6 +17,11 @@ public class MainTest {
     @Test
     void fakeTest_2plus3_is4(){
         assertEquals(2+3, 5);
-    }
 
+    }
+    @Test
+    void fakeTestOnDifferentBranch_2plus3_is4(){
+        assertEquals(5, 2+2);
+
+    }
 }
