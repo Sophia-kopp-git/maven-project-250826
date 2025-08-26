@@ -21,7 +21,7 @@ public class MainTest {
     }
     @Test
     void fakeTestOnDifferentBranch_2plus3_is4(){
-        assertEquals(5, 2+2);
+        assertEquals(5, 2+3);
 
     }
 }
