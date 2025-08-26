@@ -14,7 +14,7 @@ public class MainTest {
     void simpleTest_2plus3_is4(){
         assertEquals(2+3, 5);
     }    @Test
-    void simpleTest_2plus3_is4(){
+    void fakeTest_2plus3_is4(){
         assertEquals(2+2, 5);
     }
 
